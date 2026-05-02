@@ -16,4 +16,6 @@
 
 <h2>Assim ficou no mobile:</h2>
 
-<img src="">
+<img src="https://raw.githubusercontent.com/kaykecampestrini12/Easy-Shopping/0a2424bd8cbeb183f5cc4e96c21cf6957dda092c/assets/MOBILE.png">
+
+<h3>Apenas o começo de uma carreira abençoada por Deus.</h3>
