@@ -103,7 +103,7 @@ header {
     }
 
     .container-right {
-        display: block;
+
         height: auto;
         width: 100%;
         position: static;
@@ -112,7 +112,7 @@ header {
 
     img {
         position: static;
-        max-width: 90%;
+        max-width: 75%;
         padding: 0;
     }
     
